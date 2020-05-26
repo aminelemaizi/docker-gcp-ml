@@ -6,7 +6,7 @@
 
 The graph bellow describe summarily the general architecture used in this demo code.
 
-<img src="/home/lem/LEM's LAB/Dockerise ML Model/img/simple_arch.png" style="zoom:18%;" />
+<img src="img/simple_arch.png" style="zoom:18%;" />
 
 - **Index 1** : A Docker image based on Ubuntu, to which we'll add the needed dependencies to make Python work with all the necessary requirements. The main script for doing the learning and communicating with our cloud storage bucket we'll be contained inside this image. After creating the image locally we'll push it to the Google Container Registry so it can be private  and callable from within.
 
