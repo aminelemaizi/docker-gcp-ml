@@ -1,6 +1,6 @@
 # Dockerize your Machine Learning model to train it on GCP!
 
-⚠️ _**Please refer to my blog article here : https://lemaizi.com/blog/dockerize-your-machine-learning-model-to-train-it-on-gcp/, where all the functioning is explained in more details.**_
+⚠️ _**Please refer to my blog article here : https://lemaizi.com/blog/dockerize-your-machine-learning-model-to-train-it-on-gcp/, where the functioning is explained in more details.**_
 
 ## The general architecture
 
